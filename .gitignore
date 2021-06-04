@@ -1,0 +1,8 @@
+##### Folders and Subfolders to exclude #####
+#############################################
+.Project1/build
+.Project1/.vscode
+
+# File Extensions to exclude #
+##############################
+
