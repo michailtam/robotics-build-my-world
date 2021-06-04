@@ -1,6 +1,3 @@
 # Build My World - ROBOTICS
-
-
-### IMPORTANT
-
+In this project a simulation environment for mobile robots gets developed using the Gazebo simulation software.
 
